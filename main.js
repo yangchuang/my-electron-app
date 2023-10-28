@@ -1,4 +1,5 @@
 // main.js
+console.log('Hello from Electron 👋')
 
 // Modules to control application life and create native browser window
 const { app, BrowserWindow } = require("electron");
