@@ -10,7 +10,7 @@
     "make": "electron-forge make"
   },
   "author": "sky",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "@electron-forge/cli": "^6.4.2",
     "@electron-forge/maker-deb": "^6.4.2",
